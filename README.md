@@ -1,6 +1,6 @@
 # Mandelbrot-Set
 
-A java program that can display various Mandelbrot Set configurations including Julia Sets
+A java program that can display various Mandelbrot Set configurations including Julia Sets while mapping different colors to different escape times.
 
 ![image](https://github.com/Whatyesoh/Mandelbrot-Set/assets/43829957/84bd44b2-28e7-46fa-8ecf-fe43cf1b1eab)
 
