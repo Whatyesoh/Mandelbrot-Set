@@ -1,6 +1,6 @@
 # Mandelbrot-Set
 
-A Lua program that lets the user move around and zoom in on the Mandelbrot set. The zoom limit is ~120,000x which is the limit of floating point precision.
+A Lua program that lets the user move around and zoom in on the Mandelbrot set. The zoom limit is ~120,000x which is where the image quality is limited by floating point precision.
 
 Zoomed out:
 ![image](https://github.com/user-attachments/assets/ebde5b30-9b5e-4407-bc9d-16b9047b9bdb)
