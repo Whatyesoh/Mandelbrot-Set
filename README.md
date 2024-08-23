@@ -1,5 +1,6 @@
 # Mandelbrot-Set
 
+Lua version:
 A Lua program that lets the user move around and zoom in on the Mandelbrot set. The zoom limit is ~120,000x which is where the image quality is limited by floating point precision.
 
 Zoomed out:
@@ -13,3 +14,10 @@ Zoomed out:
 
 Zoom on another part of the fractal:
 ![image](https://github.com/user-attachments/assets/610bb7b7-2d2e-4cd6-96ec-2250d1c5a2b5)
+
+
+Java version:
+
+Allows you to plot the Mandelbrot set or any Julia set
+
+![image](https://github.com/user-attachments/assets/cd4980a7-3a3f-4e65-97fb-f91eed9e510c)
