@@ -10,3 +10,6 @@ Zoomed out:
 
 120k zoom:
 ![image](https://github.com/user-attachments/assets/e10cf0b8-f7ef-4000-8fc4-35703ad7d597)
+
+Zoom on another part of the fractal:
+![image](https://github.com/user-attachments/assets/610bb7b7-2d2e-4cd6-96ec-2250d1c5a2b5)
