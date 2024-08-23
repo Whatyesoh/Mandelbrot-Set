@@ -1,8 +1,12 @@
 # Mandelbrot-Set
 
-A java program that can display various Mandelbrot Set configurations including Julia Sets while mapping different colors to different escape times.
+A Lua program that lets the user move around and zoom in on the Mandelbrot set. The zoom limit is ~20,000x which is the limit of floating point precision.
 
-![image](https://github.com/Whatyesoh/Mandelbrot-Set/assets/43829957/84bd44b2-28e7-46fa-8ecf-fe43cf1b1eab)
+Zoomed out:
+![image](https://github.com/user-attachments/assets/ebde5b30-9b5e-4407-bc9d-16b9047b9bdb)
 
+1.5k zoom:
+![image](https://github.com/user-attachments/assets/5ce27d00-f1c5-43df-804c-85a631e75ad0)
 
-![image](https://github.com/Whatyesoh/Mandelbrot-Set/assets/43829957/527d810d-5423-4b34-88f4-adcec9459b84)
+20k zoom:
+![image](https://github.com/user-attachments/assets/94f4fac9-1686-421b-a0d7-3373cb1f6123)
